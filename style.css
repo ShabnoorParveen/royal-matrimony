@@ -976,17 +976,17 @@ height: 20px;
 }
 
 .menu-mobile > li.menu-item-has-children > a:after {
-	content: "+";
+	/* content: "+";
 	display: inline-block;
 	margin-left: 7px;
 	margin-right: 0;
 	font-size: 20px;
 	font-weight: 700;
-	vertical-align: middle;
+	vertical-align: middle; */
 }
 
 .menu-mobile > li.menu-item-has-children.menu-open > a:after {
-	content: "-";
+	/* content: "-"; */
 }
 
 .menu-mobile ul {
