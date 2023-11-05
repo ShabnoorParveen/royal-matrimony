@@ -38,7 +38,11 @@ https://matchthemes.com
 *
 * 
 */
-
+/* google translate */
+.g-element {
+	display: none!important;
+  }
+  
 :root {  
 	--body-font: Open Sans, sans-serif;
 	--body-color: #858585;
